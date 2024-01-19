@@ -15,4 +15,7 @@
    
 --> plot(x,y1)
 --> plot(x,y2)
---> xgrid
+--> xgrid--> title('Wykres dwóch funkcji')
+
+title('Wykres dwóch funkcji')
+
